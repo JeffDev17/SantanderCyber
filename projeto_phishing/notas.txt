@@ -1,0 +1,3 @@
+Utilizei Kali Linux rodando via VirtualBox no Windows. Utilizei meu proprio IP para fazer teste local.
+Tive dificuldade em rodar utilizando o site do facebook como sugerido na atividade e para contornar optei por utilizar um dos modelos de website (no caso usei o google) que já vem built-in com o Setoolkit.
+
